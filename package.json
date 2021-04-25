@@ -1,0 +1,22 @@
+{
+  "name": "apale",
+  "version": "1.0.0",
+  "description": "apale",
+  "main": "index.js",
+  "scripts": {
+    "test": "apale"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eadraque/ApalePrelimExam.git"
+  },
+  "author": "apale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eadraque/ApalePrelimExam/issues"
+  },
+  "homepage": "https://github.com/eadraque/ApalePrelimExam#readme",
+  "dependencies": {
+    "pg": "^8.6.0"
+  }
+}
